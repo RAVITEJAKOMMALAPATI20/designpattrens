@@ -1,4 +1,4 @@
-package com.moviecentral.demo;
+package com.designpattrens;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
